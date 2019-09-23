@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501183753 source:c:\users\saara\documents\exercise4.5codeprojects\guessmynumber\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

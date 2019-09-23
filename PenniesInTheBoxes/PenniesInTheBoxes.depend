@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501618336 source:c:\users\saara\documents\exercise4.5codeprojects\penniesintheboxes\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
